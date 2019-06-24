@@ -1,0 +1,4 @@
+{
+	"chest": {"sx":156,"sy":187,"tileW":18,"tileH":19,"frames":5},
+	"chestDie": {"sx":234,"sy":187,"tileW":18,"tileH":19,"frames":1}
+}

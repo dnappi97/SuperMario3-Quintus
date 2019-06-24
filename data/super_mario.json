@@ -1,0 +1,11 @@
+{
+	"marioPower":
+	{
+		"sx": 0,
+        "sy": 0,
+        "tileW": 25.9,
+        "tileH": 29,
+        "frames": 35
+
+	} 
+}
